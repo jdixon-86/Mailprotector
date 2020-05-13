@@ -1,0 +1,9 @@
+C:\GitHub\Mailprotector\Mailprotector Api\bin\Debug\netcoreapp3.1\Mailprotector.deps.json
+C:\GitHub\Mailprotector\Mailprotector Api\bin\Debug\netcoreapp3.1\Mailprotector.dll
+C:\GitHub\Mailprotector\Mailprotector Api\obj\Debug\netcoreapp3.1\Mailprotector.AssemblyInfoInputs.cache
+C:\GitHub\Mailprotector\Mailprotector Api\obj\Debug\netcoreapp3.1\Mailprotector.AssemblyInfo.cs
+C:\GitHub\Mailprotector\Mailprotector Api\bin\Debug\netcoreapp3.1\Mailprotector.pdb
+C:\GitHub\Mailprotector\Mailprotector Api\obj\Debug\netcoreapp3.1\Mailprotector.csprojAssemblyReference.cache
+C:\GitHub\Mailprotector\Mailprotector Api\obj\Debug\netcoreapp3.1\Mailprotector.csproj.CoreCompileInputs.cache
+C:\GitHub\Mailprotector\Mailprotector Api\obj\Debug\netcoreapp3.1\Mailprotector.dll
+C:\GitHub\Mailprotector\Mailprotector Api\obj\Debug\netcoreapp3.1\Mailprotector.pdb

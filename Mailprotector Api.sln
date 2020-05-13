@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mailprotector", "Mailprotector Api\Mailprotector.csproj", "{41C28D65-6578-4A8B-96E7-18F2C321E727}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mailprotector.Tests", "Mailprotector.Tests\Mailprotector.Tests.csproj", "{9615DC8E-8BD8-4BF7-B830-0EBD1B21D522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C28D65-6578-4A8B-96E7-18F2C321E727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C28D65-6578-4A8B-96E7-18F2C321E727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C28D65-6578-4A8B-96E7-18F2C321E727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C28D65-6578-4A8B-96E7-18F2C321E727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9615DC8E-8BD8-4BF7-B830-0EBD1B21D522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9615DC8E-8BD8-4BF7-B830-0EBD1B21D522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9615DC8E-8BD8-4BF7-B830-0EBD1B21D522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9615DC8E-8BD8-4BF7-B830-0EBD1B21D522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3D241C7-3975-4B0E-8D84-86D6F9AE9D64}
+	EndGlobalSection
+EndGlobal

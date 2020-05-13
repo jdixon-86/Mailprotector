@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oBLGx/Ppu1zuYxCiMj0APmOYc7EP/zOrgKeZKbo5urGpgZQWFx2riHOusngEzMgH5ErsWPTSz63A4P59yAghng==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\Mailprotector\\Mailprotector Api\\Mailprotector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jdixon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

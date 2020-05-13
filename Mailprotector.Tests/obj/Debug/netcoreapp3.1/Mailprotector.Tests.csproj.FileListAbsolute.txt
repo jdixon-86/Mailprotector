@@ -1,0 +1,17 @@
+C:\GitHub\Mailprotector\Mailprotector.Tests\bin\Debug\netcoreapp3.1\Mailprotector.Tests.exe
+C:\GitHub\Mailprotector\Mailprotector.Tests\bin\Debug\netcoreapp3.1\Mailprotector.Tests.deps.json
+C:\GitHub\Mailprotector\Mailprotector.Tests\bin\Debug\netcoreapp3.1\Mailprotector.Tests.runtimeconfig.json
+C:\GitHub\Mailprotector\Mailprotector.Tests\bin\Debug\netcoreapp3.1\Mailprotector.Tests.runtimeconfig.dev.json
+C:\GitHub\Mailprotector\Mailprotector.Tests\bin\Debug\netcoreapp3.1\Mailprotector.Tests.dll
+C:\GitHub\Mailprotector\Mailprotector.Tests\bin\Debug\netcoreapp3.1\Mailprotector.Tests.pdb
+C:\GitHub\Mailprotector\Mailprotector.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\GitHub\Mailprotector\Mailprotector.Tests\bin\Debug\netcoreapp3.1\Mailprotector.dll
+C:\GitHub\Mailprotector\Mailprotector.Tests\bin\Debug\netcoreapp3.1\Mailprotector.pdb
+C:\GitHub\Mailprotector\Mailprotector.Tests\obj\Debug\netcoreapp3.1\Mailprotector.Tests.csprojAssemblyReference.cache
+C:\GitHub\Mailprotector\Mailprotector.Tests\obj\Debug\netcoreapp3.1\Mailprotector.Tests.csproj.CoreCompileInputs.cache
+C:\GitHub\Mailprotector\Mailprotector.Tests\obj\Debug\netcoreapp3.1\Mailprotector.Tests.AssemblyInfoInputs.cache
+C:\GitHub\Mailprotector\Mailprotector.Tests\obj\Debug\netcoreapp3.1\Mailprotector.Tests.AssemblyInfo.cs
+C:\GitHub\Mailprotector\Mailprotector.Tests\obj\Debug\netcoreapp3.1\Mailprotector.Tests.csproj.CopyComplete
+C:\GitHub\Mailprotector\Mailprotector.Tests\obj\Debug\netcoreapp3.1\Mailprotector.Tests.dll
+C:\GitHub\Mailprotector\Mailprotector.Tests\obj\Debug\netcoreapp3.1\Mailprotector.Tests.pdb
+C:\GitHub\Mailprotector\Mailprotector.Tests\obj\Debug\netcoreapp3.1\Mailprotector.Tests.genruntimeconfig.cache
